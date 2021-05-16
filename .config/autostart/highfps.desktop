@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec="/home/matteo/.local/bin/fps.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=240Hz Enabler
